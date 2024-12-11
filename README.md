@@ -4,8 +4,8 @@ A web-based course registration system for Bow Valley College built with React, 
 
 ## Prerequisites
 
-- Node.js (v14 or higher)
-- SQL Server 2016 or higher
+- Node.js 
+- SQL Server 
 - npm or yarn package manager
 
 ## Database Setup
@@ -41,12 +41,12 @@ You have two options to set up the database:
 ### Backend Setup
 
 1. Navigate to the backend directory:
-```bash
+```
 cd backend
 ```
 
 2. Install dependencies:
-```bash
+```
 npm install
 ```
 
@@ -62,19 +62,19 @@ NODE_ENV=development
 ```
 
 4. Start the backend server:
-```bash
-npm start
+```
+npm run dev
 ```
 
 ### Frontend Setup
 
 1. Navigate to the frontend directory:
-```bash
+```
 cd frontend
 ```
 
 2. Install dependencies:
-```bash
+```
 npm install
 ```
 
@@ -93,6 +93,7 @@ npm start
 ### Admin Account
 - Username: admin
 - Password: admin123
+- or you can create your admin account 
 - Can manage courses, programs, and view all registrations
 
 ### Student Registration
@@ -195,30 +196,16 @@ Students can register through the registration page with:
    - Check console for errors
    - Clear browser cache if needed
 
-## Support
-
-For technical support or questions, contact:
-- Email: [Your Email]
-- Phone: [Your Phone]
-
-## License
-
-[Your License Information]
-
 ## Contributors
 
-- [Your Name]
-- [Other Contributors]
+- Nafiyad Adane 
+- Juan Gonzalez Mellizo
+- Nkemsinachi Ejinkeonye
+- Nissi Daramola
 
-## Version History
-
-- 1.0.0 (Initial Release)
-  - Basic functionality
-  - Course registration
-  - User authentication
 
 ## Acknowledgments
 
 - Bow Valley College
-- [Other Acknowledgments]
+- Hugo Vinicius Zeminian Bueno Camargo
 
