@@ -221,5 +221,4 @@ For technical support or questions, contact:
 
 - Bow Valley College
 - [Other Acknowledgments]
-```
 
